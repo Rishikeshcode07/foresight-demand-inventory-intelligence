@@ -8,6 +8,11 @@ Streamlit dashboard : https://foresight-demand-inventory-intelligence-4gwryzczze
 
 Power BI Dashboard Explanation: https://drive.google.com/file/d/1-6hBBVesifSyOOJ3YG7RqSNpcYKTpgSL/view?usp=sharing
 
+
+
+Team Explanation Video : https://drive.google.com/file/d/190naoQieG4zOSw8Ilr8I0QzJ9bxFAHIu/view?usp=sharing
+
+Team Feedback Video : https://drive.google.com/file/d/1NJdJ9sjYGlEDw1GQRd9Jdgcy_wTzwrTb/view?usp=sharing
 ---
 
 ## Business Context & Impact (The STAR Method)
