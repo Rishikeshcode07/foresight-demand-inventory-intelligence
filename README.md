@@ -64,5 +64,7 @@ A dynamically updated table designed specifically for procurement teams. It rank
 *   **Rolling Backtest Validation:** To prevent overfitting and ensure real-world reliability, the forecasting model was validated using a rolling backtest methodology. This simulates how the model would have performed in the past, proving its superiority over standard seasonal-naive approaches.
 *   **Risk Validation:** Risk categorizations are not purely theoretical; they are cross-validated against ground-truth inventory data to ensure high precision in the resulting procurement recommendations.
 
+![image alt](https://github.com/user-attachments/assets/e2ec1258-6a69-4209-ae6f-d252e8c9d065)
+
 
 
