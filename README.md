@@ -6,6 +6,8 @@ Project FORESIGHT is an end-to-end, AI-driven inventory analytics and demand for
 Streamlit dashboard : https://foresight-demand-inventory-intelligence-4gwryzczzehpqohagt4lac.streamlit.app/
 ![image alt](https://github.com/user-attachments/assets/f78812f1-9c8d-4618-816b-02e18462c9bb)
 
+Power BI Dashboard Explanation: https://drive.google.com/file/d/1-6hBBVesifSyOOJ3YG7RqSNpcYKTpgSL/view?usp=sharing
+
 ---
 
 ## Business Context & Impact (The STAR Method)
