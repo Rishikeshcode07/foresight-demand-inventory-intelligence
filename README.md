@@ -4,7 +4,7 @@
 Project FORESIGHT is an end-to-end, AI-driven inventory analytics and demand forecasting platform. Designed for large-scale retail and supply chain ecosystems, it transforms raw transactional data into strategic procurement directives. By moving beyond static inventory thresholds, this platform dynamically predicts SKU-level demand and categorizes inventory risk, ultimately safeguarding revenue and optimizing capital allocation.
 
 Streamlit dashboard : https://foresight-demand-inventory-intelligence-4gwryzczzehpqohagt4lac.streamlit.app/
-
+![image alt](https://github.com/user-attachments/assets/f78812f1-9c8d-4618-816b-02e18462c9bb)
 
 ---
 
